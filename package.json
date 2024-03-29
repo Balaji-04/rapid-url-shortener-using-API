@@ -1,0 +1,15 @@
+{
+  "name": "rapid-url-shortener",
+  "version": "1.0.0",
+  "description": "An url shortener that uses API to parse the long links into short links. Learning node.js.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Balaji T",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5"
+  }
+}
